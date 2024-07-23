@@ -1,6 +1,6 @@
 ## EscolaDNC_Desafio-6 🚀🚀
 
-Desafio: Desafio: Preveja os usuários com alta chance de deixar seu 'Streaming
+Desafio: Preveja os usuários com alta chance de deixar seu Streaming
 
     Utilize um modelo de classificação para mapear qual o perfil de
     usuários tem mais chance de deixar sua plataforma de streaming.
