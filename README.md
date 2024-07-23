@@ -1,4 +1,4 @@
-#EscolaDNC_Desafio-6 🚀🚀
+# EscolaDNC_Desafio-6 🚀🚀
 
 Desafio: Preveja os usuários com alta chance de deixar seu Streaming
 
