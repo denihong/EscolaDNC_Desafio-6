@@ -20,13 +20,13 @@ Sobre os dados: Problema de ecommerce, disponível no Kaggle. Acesse os dados aq
 
      https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75a740fb-4146-455a-8d13-6a24ba56d2c8/streaming_data.csv
 
-#🎯 Etapas de Desenvolvimento
+🎯 Etapas de Desenvolvimento
 
 Etapa 01) Análise exploratória dos dados (Data Understanding):
 a. Carregue a base de dados;
 b. Realize uma descrição estatística dos dados;
-c. Verifique os tipos de dados
-d. Verifique a quantidade de valores faltantes
+c. Verifique os tipos de dados;
+d. Verifique a quantidade de valores faltantes;
 
 Etapa 02) Tratamento dos Dados (Data Preparation):
 a. Substituir valores “NaN” por 0 Colunas → Time_on_platform, Num_streaming_services, Churned, Avg_rating, Devices_connected;
