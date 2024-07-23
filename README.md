@@ -29,10 +29,10 @@ c. Verifique os tipos de dados
 d. Verifique a quantidade de valores faltantes
 
 Etapa 02) Tratamento dos Dados (Data Preparation):
-1. Substituir valores “NaN” por 0 Colunas → Time_on_platform, Num_streaming_services, Churned, Avg_rating, Devices_connected;
-2. Dropar linhas nulas nas colunas Gender, Subscription_type e Age;
-3. Transformando valores churned 0 e 1 por No e Yes;
-4. Transformando valores floats em valores inteiros;
+a. Substituir valores “NaN” por 0 Colunas → Time_on_platform, Num_streaming_services, Churned, Avg_rating, Devices_connected;
+b. Dropar linhas nulas nas colunas Gender, Subscription_type e Age;
+c. Transformando valores churned 0 e 1 por No e Yes;
+d. Transformando valores floats em valores inteiros;
 
 Etapa 03) Modelagem dos Dados - Regressão Logística:
 a. Definir variáveis X e y para o modelo;
