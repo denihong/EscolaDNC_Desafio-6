@@ -20,42 +20,42 @@ Sobre os dados: Problema de ecommerce, disponível no Kaggle. Acesse os dados aq
 
 ``` https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75a740fb-4146-455a-8d13-6a24ba56d2c8/streaming_data.csv```
 
-## 🎯_Etapas de Desenvolvimento_
+## _🎯Etapas de Desenvolvimento_
 
-### Etapa 01) Análise exploratória dos dados (Data Understanding):
-a. Carregue a base de dados;
-b. Realize uma descrição estatística dos dados;
-c. Verifique os tipos de dados;
-d. Verifique a quantidade de valores faltantes;
+* ### Etapa 01) Análise exploratória dos dados (Data Understanding):
+  1. Carregue a base de dados;
+  2. Realize uma descrição estatística dos dados;
+  3. Verifique os tipos de dados;
+  4. Verifique a quantidade de valores faltantes;
 
-### Etapa 02) Tratamento dos Dados (Data Preparation):
-a. Substituir valores “NaN” por 0 Colunas → Time_on_platform, Num_streaming_services, Churned, Avg_rating, Devices_connected;
-b. Dropar linhas nulas nas colunas Gender, Subscription_type e Age;
-c. Transformando valores churned 0 e 1 por No e Yes;
-d. Transformando valores floats em valores inteiros;
+* ### Etapa 02) Tratamento dos Dados (Data Preparation):
+  1. Substituir valores “NaN” por 0 Colunas → Time_on_platform, Num_streaming_services, Churned, Avg_rating, Devices_connected;
+  2. Dropar linhas nulas nas colunas Gender, Subscription_type e Age;
+  3. Transformando valores churned 0 e 1 por No e Yes;
+  4. Transformando valores floats em valores inteiros;
 
-### Etapa 03) Modelagem dos Dados - Regressão Logística:
-a. Definir variáveis X e y para o modelo;
-b. Realizar o .fit do modelo;
-c. Separar em train e test;
-d. Realizar a modelagem;
-e. Plotar matrix confusão;
-f. Printar métricas;
+* ### Etapa 03) Modelagem dos Dados - Regressão Logística:
+  1. Definir variáveis X e y para o modelo;
+  2. Realizar o .fit do modelo;
+  3. Separar em train e test;
+  4. Realizar a modelagem;
+  5. Plotar matrix confusão;
+  6. Printar métricas;
 
-### Etapa 04) Modelagem dos Dados - Tunning:
-a. Definir variáveis X e y para o modelo;
-b. Realizar o .fit do modelo;
-c. Separar em train e test;
-d. Realizar a modelagem;
-e. Plotar matrix confusão;
-f. Printar métricas;
+* ### Etapa 04) Modelagem dos Dados - Tunning:
+  1. Definir variáveis X e y para o modelo;
+  2. Realizar o .fit do modelo;
+  3. Separar em train e test;
+  4. Realizar a modelagem;
+  5. Plotar matrix confusão;
+  6. Printar métricas;
 
-### Etapa 05) Modelagem dos Dados - Random Forest:
-a. Realizar a montagem do grid search;
-b. Realizar o .fit do modelo;
-c. Realizar o Tunning;
-d. Realizar a modelagem;
-e. Plotar matrix confusão;
-f. Printar métricas;
+* ### Etapa 05) Modelagem dos Dados - Random Forest:
+  1. Realizar a montagem do grid search;
+  2. Realizar o .fit do modelo;
+  3. Realizar o Tunning;
+  4. Realizar a modelagem;
+  5. Plotar matrix confusão;
+  6. Printar métricas;
 
 
