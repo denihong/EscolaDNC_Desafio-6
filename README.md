@@ -1,4 +1,4 @@
-# EscolaDNC_Desafio-6 🚀🚀
+## EscolaDNC_Desafio-6 🚀🚀
 
 Desafio: Desafio: Preveja os usuários com alta chance de deixar seu 'Streaming
 
@@ -19,5 +19,5 @@ forneceu uma base de dados em csv contendo dados sobre as contas dos clientes.
 Sobre os dados
 Uma adaptação do problema de ecommerce, disponível no Kaggle. Acesse os dados
 aqui:
-    https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75a740fb-4146-4
-    55a-8d13-6a24ba56d2c8/streaming_data.csv
+
+     https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75a740fb-4146-455a-8d13-6a24ba56d2c8/streaming_data.csv
