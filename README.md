@@ -1,4 +1,4 @@
-## EscolaDNC_Desafio-6 🚀🚀
+#EscolaDNC_Desafio-6 🚀🚀
 
 Desafio: Preveja os usuários com alta chance de deixar seu Streaming
 
@@ -8,7 +8,7 @@ Desafio: Preveja os usuários com alta chance de deixar seu Streaming
     negócio é essencial para tomar ações que reduzam essas perdas,
     seja alterando critérios na venda ou modificando o produto.
 
-Case: Você trabalha em uma plataforma de streaming e a diretoria está preocupada com o
+##Case: Você trabalha em uma plataforma de streaming e a diretoria está preocupada com o
 alto índice de usuários cancelando as suas assinaturas. Eles acreditam que é possível
 prever se um usuário tem mais chance de deixar a plataforma antes que isso aconteça,
 e com base nessa informação tomar ações para reduzir o churn.
