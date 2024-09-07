@@ -1,5 +1,7 @@
 # Escola DNC: Desafio 6 🚀🚀
 
+## Dataset: **https://drive.google.com/file/d/1AUntWLIla0u9NHaFpyqgyiK5TVK_a6Cp/view?usp=sharing**
+
 ## _Desafio: Preveja os usuários com alta chance de deixar seu Streaming_
 Utilize um modelo de classificação para mapear qual o perfil de
 usuários tem mais chance de deixar sua plataforma de streaming.
